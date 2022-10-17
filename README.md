@@ -2,7 +2,7 @@
 
 Source code for react/node photo gallery app
 
-## Setup a cloundinary account
+## Setup a cloudinary account
 
 You'll need to create a cloudinary account [https://cloudinary.com/users/register/free](here) - there is a free tier.
 
@@ -57,3 +57,9 @@ npm start
 ```
 
 - The app should be running on `localhost:3000`
+
+
+## Author
+
+- Kato Ernest Henry
+
